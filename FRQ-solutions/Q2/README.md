@@ -1,4 +1,4 @@
-#2024 FRQ Q1
+#2024 FRQ Q2
 
 ## This question is about...
 - Record the scoring between two teams.
