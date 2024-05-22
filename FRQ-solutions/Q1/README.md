@@ -6,10 +6,10 @@
 - If it was simulated for many days, then it would end until the amount of days were required or out of current food.
 
 ## Struggles with this question...
--The loop starter for the while loop when its meant to simulate many days.
+- The loop starter for the while loop when its meant to simulate many days.
 
 ## Prior expereiences that helped...
--A practice problem of making the powerball.
+- A practice problem of making the powerball.
 
 ## What I learned by doing this question..."
--Using math.Random more efficiently.
+- Using math.Random more efficiently.
